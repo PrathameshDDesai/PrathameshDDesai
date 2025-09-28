@@ -55,8 +55,8 @@ A full-stack project using:
 ---
 
 ## 🌟 Connect With Me  
-- 🔗 GitHub: [Your GitHub Link]  
-- 💼 LinkedIn: [Your LinkedIn Link]  
+- 🔗 GitHub: https://github.com/PrathameshDDesai 
+- 💼 LinkedIn: https://www.linkedin.com/in/prathamesh-desai-403bb5362/ 
 - 🌍 Portfolio: [Your Portfolio Link]  
 
 ---
