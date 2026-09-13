@@ -1,16 +1,16 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,29&height=220&section=header&text=Prathamesh%20Desai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Healthcare%20Tech%20Specialist%20%7C%20Full%20Stack%20Developer&descFontSize=20&descAlignY=60" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,29&height=220&section=header&text=Prathamesh%20Desai&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Healthcare%20Tech%20Specialist%20%7C%20Autonomous%20Agentic%20Architect&descFontSize=20&descAlignY=60" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <p align="center">
     <a href="https://github.com/PrathameshDDesai">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Prathamesh+Desai+%F0%9F%91%8B;Autonomous+Agentic+AI+Architect+%F0%9F%A4%96;Clinical+AI+%26+Hospital+Decision+Support+%F0%9F%8F%A5;Satellite+Computer+Vision+%26+Hazard+Analytics+%F0%9F%9B%B0%EF%B8%8F;Full-Stack+Distributed+Systems+Developer+%E2%9A%A1" alt="Typing Animation" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Prathamesh+Desai+%F0%9F%91%8B;Autonomous+Agentic+AI+Architect+%F0%9F%A4%96;Clinical+AI+%26+Hospital+Decision+Support+%F0%9F%8F%A5;Satellite+Computer+Vision+%26+Hazard+Analytics+%F0%9F%9B%B0%EF%B8%8F;Full-Stack+Distributed+Systems+Developer+%E2%9A%A1" alt="Typing Animation" />
     </a>
   </p>
 
-  <!-- Badges & Social Links -->
+  <!-- Glowing Badges & Social Links -->
   <p align="center">
     <a href="https://linkedin.com/in/prathamesh-desai-403bb5362/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,11 +20,41 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20Healthcare%20%7C%20Vision-7928CA?style=for-the-badge" alt="Focus" />
+    <a href="mailto:prathameshdesai@users.noreply.github.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=PrathameshDDesai&style=for-the-badge&color=00f2fe" alt="Profile Views" />
   </p>
 
+</div>
+
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
+
+---
+
+### 💡 Quick Intel & Focus
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="160" alt="Developer Animation" />
+
+> [!NOTE]
+> 🔬 **Current Focus**: Architecting autonomous **Agentic AI Workflows**, **Hospital Decision Support Systems (ClinicalFlow-AI)**, and **Satellite Remote Sensing Hazard Vision**.
+
+> [!IMPORTANT]
+> 📚 **Active Research**: Deep exploration into multi-modal agent consensus, RAG-grounded clinical safety graphs, and satellite water-mask segmentation models.
+
+> [!TIP]
+> 🤝 **Open For Collaboration**: Interested in research fellowships (Mitacs Globalink 2027), AI/ML engineering internships, and high-impact open-source initiatives.
+
+> [!CAUTION]
+> 🚀 **Philosophy**: *"Programming isn't just about what you know — it's about what you can figure out and build."*
+
+---
+
+### 🏆 GitHub Trophies Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrathameshDDesai&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -41,24 +71,26 @@
   </picture>
 </div>
 
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="3px" />
+
 ---
 
-### 🏆 Top 3 Flagship Research & Engineering Repositories
+### 🌟 Top 3 Flagship Deep-Dive Showcases
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
       <div align="center">
         <h3>🏥 <a href="https://github.com/PrathameshDDesai/ClinicalFlow-AI-Intelligent-Hospital-Decision-Support-Patient-Care-Platform">ClinicalFlow-AI</a></h3>
-        <p><b>Intelligent Hospital Decision Support</b></p>
+        <p><b>Hospital Clinical Decision Support</b></p>
         <img src="https://img.shields.io/badge/Domain-Healthcare%20AI-E11D48?style=flat-square" />
         <img src="https://img.shields.io/badge/Stack-Python%20%7C%20RAG-3776AB?style=flat-square" />
       </div>
       <ul>
-        <li>⚡ <b>LOS Prediction</b>: Predictive hospital length-of-stay modeling</li>
-        <li>🚨 <b>NEWS2 Triage</b>: Real-time clinical deterioration risk scoring</li>
-        <li>📚 <b>Medical RAG</b>: Evidence-based clinical knowledge retrieval</li>
-        <li>📝 <b>Automated SOAP</b>: AI-generated structured physician notes</li>
+        <li>⚡ <b>LOS Prediction</b>: Predictive patient length-of-stay modeling</li>
+        <li>🚨 <b>NEWS2 Triage</b>: Vital signs deterioration risk assessment</li>
+        <li>📚 <b>Medical RAG</b>: Evidence-based pharmacology & clinical QA</li>
+        <li>📝 <b>Auto SOAP Notes</b>: AI-generated physician summaries</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -71,8 +103,8 @@
       <ul>
         <li>🌊 <b>Water Masking</b>: High-precision satellite flood segmentation</li>
         <li>🛰️ <b>Multi-Spectral GIS</b>: Optical & SAR remote sensing analytics</li>
-        <li>📍 <b>Damage Mapping</b>: Disaster response zone classification</li>
-        <li>⚡ <b>Real-time Inference</b>: Automated edge and cloud processing</li>
+        <li>📍 <b>Hazard Mapping</b>: Real-time disaster zone triage</li>
+        <li>⚡ <b>Edge Inference</b>: Automated cloud & edge pipeline</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -85,8 +117,8 @@
       <ul>
         <li>🧠 <b>Autonomous Agents</b>: Multi-agent goal orchestration</li>
         <li>🔄 <b>ReAct & Planning</b>: Dynamic tool usage and reflection</li>
-        <li>🌐 <b>API Tool Calling</b>: Automated execution and memory state</li>
-        <li>⚡ <b>Self-Correction</b>: Closed-loop error handling and validation</li>
+        <li>🌐 <b>Tool Calling</b>: Automated API invocation & memory states</li>
+        <li>⚡ <b>Self-Correction</b>: Closed-loop error handling</li>
       </ul>
     </td>
   </tr>
@@ -94,24 +126,51 @@
 
 ---
 
-### 🌌 Developer Overview & Core Competencies
+### 🛠️ Tech Stack & Interactive Toolkit
 
-```yaml
-Architect Profile:
-  Name: Prathamesh Desai
-  Specialization: AI/ML Engineering & High-Performance Full-Stack Systems
-  Core Pillars:
-    - 🧠 Agentic Workflows & LLM Orchestration
-    - 🏥 Medical Decision Support & Clinical Knowledge Systems
-    - 🛰️ Satellite Remote Sensing & Computer Vision
-    - 🌐 Distributed Web Applications & ERP Platforms
-  Mission:
-    - Designing reliable, safety-critical AI architectures that bridge foundational research with real-world impact.
-```
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **🧠 AI / ML & Deep Learning** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain_%2F_RAG-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> |
+| **💻 Programming Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" /> |
+| **⚙️ Backend & Frameworks** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" /> |
+| **🗄️ Databases & Dev Tools** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> |
+
+</div>
 
 ---
 
-### 🚀 Complete Repository Portfolio
+### 🤖 Developer Art & Logic
+
+<div align="center">
+
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                             @@
+@@       | |       BUILDING THE FUTURE OF AI             @@
+@@      _L_L_                                            @@
+@@   ❮\/__-__\/❯   "Intelligence isn't just about data; @@
+@@   ❮(|~o.o~|)❯    it's about autonomous reasoning       @@
+@@   ❮/ \`-'/ \❯    and solving real-world challenges."  @@
+@@     _/`U'\_                                           @@
+@@    ( .   . )       .----------------------------.     @@
+@@   / /     \ \      | while( ! (succeed=try() ) )|     @@
+@@   \ |  ,  | /      '----------------------------'     @@
+@@    \|=====|/                                          @@
+@@     |_.^._|        Continuous Iteration               @@
+@@     | |"| |        leads to Breakthrough Solutions.   @@
+@@     ( ) ( )                                           @@
+@@ _.-' _j L_ '-._                                       @@
+@@(___.'     '.___)                                      @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</div>
+
+---
+
+### 🚀 Complete Repository Portfolio (20 Repositories)
 
 #### 🧠 AI, Healthcare & Computer Vision
 <table>
@@ -125,7 +184,7 @@ Architect Profile:
   <tbody>
     <tr>
       <td><b><a href="https://github.com/PrathameshDDesai/ClinicalFlow-AI-Intelligent-Hospital-Decision-Support-Patient-Care-Platform">🏥 ClinicalFlow-AI</a></b></td>
-      <td>Intelligent clinical decision-support platform integrating LOS prediction, NEWS2 risk assessment, RAG-based knowledge, medication safety, and automated SOAP notes.</td>
+      <td>Intelligent clinical decision-support platform integrating LOS prediction, NEWS2 risk assessment, RAG knowledge, medication safety, and automated SOAP notes.</td>
       <td><code>Python</code> <code>AI/ML</code> <code>RAG</code> <code>NLP</code></td>
     </tr>
     <tr>
@@ -219,55 +278,7 @@ Architect Profile:
 
 ---
 
-### 💻 Tech Stack & Toolkit
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="25%"><b>Languages</b></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%"><b>AI / ML & Vision</b></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain_%2F_RAG-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%"><b>Backend & Web</b></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%"><b>Dev Tools</b></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-### 📊 GitHub Analytics & Real-Time Stats
+### 📊 GitHub Analytics & Live Activity
 
 <div align="center">
   <table border="0">
