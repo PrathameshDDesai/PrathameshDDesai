@@ -1,115 +1,258 @@
-# Hi there, I'm Prathamesh Desai 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Developer;Healthcare+AI+%26+Computer+Vision+Specialist;Full+Stack+Web+Developer;Building+Agentic+AI+%26+Intelligent+Systems" alt="Typing SVG" />
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,29&height=220&section=header&text=Prathamesh%20Desai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Healthcare%20Tech%20Specialist%20%7C%20Full%20Stack%20Developer&descFontSize=20&descAlignY=60" width="100%" alt="Header Banner" />
 
-<p align="center">
+  <!-- Animated Typing SVG -->
+  <p align="center">
+    <a href="https://github.com/PrathameshDDesai">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Prathamesh+Desai+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Healthcare+AI+%26+Computer+Vision+Specialist+%F0%9F%8F%A5;Autonomous+Agentic+AI+Architect+%F0%9F%A4%96;Full-Stack+Web+Developer+%E2%9A%A1" alt="Typing Animation" />
+    </a>
+  </p>
+
+  <!-- Badges & Social Links -->
+  <p align="center">
+    <a href="https://linkedin.com/in/prathamesh-desai-403bb5362/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/PrathameshDDesai">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Healthcare%20%2F%20Full--Stack-7928CA?style=for-the-badge" alt="Focus" />
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=PrathameshDDesai&style=for-the-badge&color=00f2fe" alt="Profile Views" />
+  </p>
+
+</div>
+
+---
+
+### 🐍 Contribution Activity & Snake Eater Game
+
+<div align="center">
+  <p><i>Watch the snake eat through my GitHub contribution graph in real-time! 🎮</i></p>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrathameshDDesai/PrathameshDDesai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrathameshDDesai/PrathameshDDesai/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/PrathameshDDesai/PrathameshDDesai/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### 🌌 About Me & Vision
+
+```yaml
+Developer Profile:
+  Name: Prathamesh Desai
+  Role: AI Engineer & Full-Stack Architect
+  Specializations:
+    - AI & Deep Learning (Computer Vision, NLP, RAG, Agentic Systems)
+    - Healthcare Intelligence & Decision Support Platforms
+    - Satellite Remote Sensing & Hazard Detection
+    - Scalable Modern Web Development
+  Current Focus:
+    - Building autonomous agentic decision workflows
+    - Clinical AI diagnostics & real-world predictive modeling
+    - Advanced DSA & distributed systems architecture
+```
+
+---
+
+### 🚀 Featured Repositories
+
+#### 🧠 AI, Healthcare & Satellite Computer Vision
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="45%">Description</th>
+      <th width="20%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/ClinicalFlow-AI-Intelligent-Hospital-Decision-Support-Patient-Care-Platform">🏥 ClinicalFlow-AI</a></b></td>
+      <td>Intelligent clinical decision-support platform integrating LOS prediction, NEWS2 risk assessment, RAG-based knowledge, medication safety, and automated SOAP notes.</td>
+      <td><code>Python</code> <code>AI/ML</code> <code>RAG</code> <code>NLP</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/AI-Powered-Flood-Detection-using-Satellite-Imagery">🛰️ Satellite Flood Detection</a></b></td>
+      <td>Deep learning and satellite remote sensing analysis for disaster monitoring, water mask segmentation, and flood hazard mapping.</td>
+      <td><code>Python</code> <code>Computer Vision</code> <code>Remote Sensing</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/Agentic-AI">🤖 Agentic-AI</a></b></td>
+      <td>Autonomous multi-agent workflows, iterative goal-seeking algorithms, and intelligent reasoning engines.</td>
+      <td><code>Python</code> <code>LLMs</code> <code>Agentic AI</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/NeuroTrack-AI">🔬 NeuroTrack-AI</a></b></td>
+      <td>AI-powered neuroscience tracking, cognitive performance analytics, and health metrics monitoring.</td>
+      <td><code>Python</code> <code>Data Science</code> <code>AI</code></td>
+    </tr>
+  </tbody>
+</table>
+
+#### 🌐 Web Platforms & Enterprise Applications
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="45%">Description</th>
+      <th width="20%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/Smart-Erp">💼 Smart-Erp</a></b></td>
+      <td>Enterprise Resource Planning (ERP) platform for business automation, inventory tracking, and operational efficiency.</td>
+      <td><code>JavaScript</code> <code>Node.js</code> <code>Full Stack</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/MentorHub">🤝 MentorHub</a></b></td>
+      <td>Collaborative mentorship hub connecting learners and experts with live session tracking and feedback loops.</td>
+      <td><code>JavaScript</code> <code>Web Dev</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/Task_Flow">📋 Task_Flow</a></b></td>
+      <td>Streamlined task and project workflow tracker with drag-and-drop lifecycle management.</td>
+      <td><code>JavaScript</code> <code>UI/UX</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/MAJORPROJECT">🏛️ MAJORPROJECT</a></b></td>
+      <td>Full-stack dynamic web portal featuring server-side rendering, robust authentication, and relational data management.</td>
+      <td><code>EJS</code> <code>JavaScript</code> <code>Backend</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/Enstine">⚡ Enstine</a></b></td>
+      <td>Modular web application system emphasizing clean frontend architecture and API integration.</td>
+      <td><code>JavaScript</code> <code>Frontend</code></td>
+    </tr>
+  </tbody>
+</table>
+
+#### 🗾 EdTech, Language Learning & Creative Labs
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="45%">Description</th>
+      <th width="20%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/Nihon-Journey">🇯🇵 Nihon-Journey</a> & <a href="https://github.com/PrathameshDDesai/QuizOnJapanese">QuizOnJapanese</a></b></td>
+      <td>Interactive gamified Japanese language learning platforms covering Hiragana/Katakana, vocabulary, and grammar quizzes.</td>
+      <td><code>JavaScript</code> <code>HTML5</code> <code>CSS3</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/Sigma-Learn">📚 Sigma-Learn</a></b></td>
+      <td>Web development showcase and DSA repository documenting fundamental algorithms and modern responsive UI patterns.</td>
+      <td><code>CSS3</code> <code>JavaScript</code> <code>DSA</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/mitacs_portfolio_2027">🌍 Mitacs Portfolio 2027</a></b></td>
+      <td>Interactive portfolio prepared for global research fellowships, highlighting research publications and project milestones.</td>
+      <td><code>HTML5</code> <code>CSS3</code> <code>Design</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/PrathameshDDesai/Weather-App1">⛅ Weather-App1</a> & <a href="https://github.com/PrathameshDDesai/simson-game">🎮 Simon Game</a></b></td>
+      <td>Live dynamic weather forecasting dashboard and classic interactive memory arcade game.</td>
+      <td><code>CSS3</code> <code>JavaScript</code> <code>APIs</code></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 💻 Tech Stack & Toolkit
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Languages</b></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><b>AI / ML & Vision</b></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain_%2F_RAG-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><b>Backend & Web</b></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%"><b>Dev Tools</b></td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics & Real-Time Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=PrathameshDDesai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f2fe&icon_color=00f2fe&text_color=c3e88d&bg_color=0f172a" height="175" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshDDesai&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe&text_color=c3e88d&bg_color=0f172a" height="175" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshDDesai&theme=tokyonight&hide_border=true&stroke=00f2fe&background=0f172a&ring=00f2fe&fire=ff79c6&currStreakLabel=00f2fe" height="170" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+  
   <a href="https://linkedin.com/in/prathamesh-desai-403bb5362/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/PrathameshDDesai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Specialization-AI%2FML%20%7C%20Healthcare%20Tech%20%7C%20Web%20Dev-blueviolet?style=for-the-badge" alt="Specialization" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔬 Passionate developer specializing in **AI/ML, Healthcare Intelligence, Satellite Computer Vision, and Full-Stack Web Development**.
-- 💡 Experienced in architecting end-to-end intelligent systems: from clinical decision support platforms to satellite flood detection algorithms and autonomous agentic workflows.
-- 🚀 Actively exploring **Agentic AI systems, RAG (Retrieval-Augmented Generation), Deep Learning, and Distributed Web Platforms**.
-- 🎓 Continuous learner focused on Data Structures & Algorithms, Scalable Architectures, and international research collaborations.
-
----
-
-### 🌟 Featured Repositories & Highlights
-
-#### 🧠 AI, Healthcare & Computer Vision
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**ClinicalFlow-AI**](https://github.com/PrathameshDDesai/ClinicalFlow-AI-Intelligent-Hospital-Decision-Support-Patient-Care-Platform) | Intelligent hospital decision-support platform integrating LOS prediction, NEWS2 risk assessment, RAG-based clinical knowledge, medication safety, and automated SOAP note generation. | `Python` `AI/ML` `RAG` `NLP` |
-| [**Flood-Detection-Satellite-Imagery**](https://github.com/PrathameshDDesai/AI-Powered-Flood-Detection-using-Satellite-Imagery) | Deep learning and satellite remote sensing analysis for real-time flood monitoring, water mask segmentation, and disaster response. | `Python` `Computer Vision` `Remote Sensing` |
-| [**Agentic-AI**](https://github.com/PrathameshDDesai/Agentic-AI) | Autonomous multi-agent architectures, reasoning workflows, and intelligent decision-making systems. | `Python` `LLMs` `Agentic Frameworks` |
-| [**NeuroTrack-AI**](https://github.com/PrathameshDDesai/NeuroTrack-AI) | AI-powered neuroscience tracking, cognitive analytics, and health metrics monitoring. | `Python` `Data Science` `AI` |
-
-#### 🌐 Web Platforms, Management Systems & Tools
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Smart-Erp**](https://github.com/PrathameshDDesai/Smart-Erp) | Enterprise Resource Planning (ERP) platform for streamlined business workflows, inventory, and operations. | `JavaScript` `Node.js` `Full Stack` |
-| [**MentorHub**](https://github.com/PrathameshDDesai/MentorHub) | Collaborative mentorship platform connecting mentors and learners with session tracking and networking. | `JavaScript` `Web Dev` |
-| [**Task_Flow**](https://github.com/PrathameshDDesai/Task_Flow) | Interactive workflow and task lifecycle management system to boost team and personal productivity. | `JavaScript` `Frontend/Backend` |
-| [**MAJORPROJECT**](https://github.com/PrathameshDDesai/MAJORPROJECT) | Full-scale end-to-end web application with templated server rendering and database integration. | `EJS` `JavaScript` `Backend` |
-| [**Enstine**](https://github.com/PrathameshDDesai/Enstine) | Web application project exploring modular JavaScript architectures. | `JavaScript` |
-
-#### 🗾 EdTech, Language Learning & Creative Projects
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Nihon-Journey**](https://github.com/PrathameshDDesai/Nihon-Journey) & [**QuizOnJapanese**](https://github.com/PrathameshDDesai/QuizOnJapanese) | Interactive Japanese language learning platforms featuring grammar modules, vocabulary quizzes, and gamified mastery. | `JavaScript` `HTML5` `CSS3` |
-| [**Sigma-Learn**](https://github.com/PrathameshDDesai/Sigma-Learn) | Comprehensive repository covering web development fundamentals, modern UI components, and DSA problem sets. | `CSS` `Web Dev` `DSA` |
-| [**mitacs_portfolio_2027**](https://github.com/PrathameshDDesai/mitacs_portfolio_2027) & [**Portfolio**](https://github.com/PrathameshDDesai/Portfolio) | Curated portfolio showcases for global research fellowship applications and developer profiles. | `HTML` `CSS` `JavaScript` |
-| [**simson-game**](https://github.com/PrathameshDDesai/simson-game) & [**Weather-App1**](https://github.com/PrathameshDDesai/Weather-App1) | Interactive frontend games and real-time live weather tracking applications. | `JavaScript` `CSS3` `APIs` |
-
----
-
-### 🛠️ Skills & Technologies
-
-<p align="left">
-  <b>Programming Languages:</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" alt="EJS" />
-</p>
-
-<p align="left">
-  <b>AI / ML & Data Science:</b><br/>
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/RAG_%26_LLMs-10A37F?style=flat-square&logo=openai&logoColor=white" alt="RAG & LLMs" />
-  <img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Healthcare_Tech-E11D48?style=flat-square&logo=heart&logoColor=white" alt="Healthcare Tech" />
-  <img src="https://img.shields.io/badge/Satellite_Analytics-0284C7?style=flat-square&logo=google-earth&logoColor=white" alt="Satellite Analytics" />
-</p>
-
-<p align="left">
-  <b>Backend, Web & Tools:</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathameshDDesai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prathamesh's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshDDesai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshDDesai&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
----
-
-### 📬 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/prathamesh-desai-403bb5362/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prathamesh_Desai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Prathamesh_Desai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/PrathameshDDesai">
-    <img src="https://img.shields.io/badge/GitHub-PrathameshDDesai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-PrathameshDDesai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
 
-<p align="center">
-  <i>⭐️ Feel free to star my repositories or reach out for collaboration on AI/ML and full-stack projects!</i>
-</p>
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,29&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
