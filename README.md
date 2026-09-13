@@ -6,7 +6,7 @@
   <!-- Animated Typing SVG -->
   <p align="center">
     <a href="https://github.com/PrathameshDDesai">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Prathamesh+Desai+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Healthcare+AI+%26+Computer+Vision+Specialist+%F0%9F%8F%A5;Autonomous+Agentic+AI+Architect+%F0%9F%A4%96;Full-Stack+Web+Developer+%E2%9A%A1" alt="Typing Animation" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Prathamesh+Desai+%F0%9F%91%8B;Autonomous+Agentic+AI+Architect+%F0%9F%A4%96;Clinical+AI+%26+Hospital+Decision+Support+%F0%9F%8F%A5;Satellite+Computer+Vision+%26+Hazard+Analytics+%F0%9F%9B%B0%EF%B8%8F;Full-Stack+Distributed+Systems+Developer+%E2%9A%A1" alt="Typing Animation" />
     </a>
   </p>
 
@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <img src="https://img.shields.io/badge/Focus-AI%20%2F%20Healthcare%20%2F%20Full--Stack-7928CA?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20Healthcare%20%7C%20Vision-7928CA?style=for-the-badge" alt="Focus" />
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=PrathameshDDesai&style=for-the-badge&color=00f2fe" alt="Profile Views" />
   </p>
@@ -43,32 +43,81 @@
 
 ---
 
-### 🌌 About Me & Vision
+### 🏆 Top 3 Flagship Research & Engineering Repositories
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🏥 <a href="https://github.com/PrathameshDDesai/ClinicalFlow-AI-Intelligent-Hospital-Decision-Support-Patient-Care-Platform">ClinicalFlow-AI</a></h3>
+        <p><b>Intelligent Hospital Decision Support</b></p>
+        <img src="https://img.shields.io/badge/Domain-Healthcare%20AI-E11D48?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20RAG-3776AB?style=flat-square" />
+      </div>
+      <ul>
+        <li>⚡ <b>LOS Prediction</b>: Predictive hospital length-of-stay modeling</li>
+        <li>🚨 <b>NEWS2 Triage</b>: Real-time clinical deterioration risk scoring</li>
+        <li>📚 <b>Medical RAG</b>: Evidence-based clinical knowledge retrieval</li>
+        <li>📝 <b>Automated SOAP</b>: AI-generated structured physician notes</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🛰️ <a href="https://github.com/PrathameshDDesai/AI-Powered-Flood-Detection-using-Satellite-Imagery">Satellite Flood Vision</a></h3>
+        <p><b>Earth Observation Hazard Analytics</b></p>
+        <img src="https://img.shields.io/badge/Domain-Computer%20Vision-5C3EE8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-PyTorch%20%7C%20GIS-0284C7?style=flat-square" />
+      </div>
+      <ul>
+        <li>🌊 <b>Water Masking</b>: High-precision satellite flood segmentation</li>
+        <li>🛰️ <b>Multi-Spectral GIS</b>: Optical & SAR remote sensing analytics</li>
+        <li>📍 <b>Damage Mapping</b>: Disaster response zone classification</li>
+        <li>⚡ <b>Real-time Inference</b>: Automated edge and cloud processing</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🤖 <a href="https://github.com/PrathameshDDesai/Agentic-AI">Agentic-AI</a></h3>
+        <p><b>Autonomous Agent Reasoning Hub</b></p>
+        <img src="https://img.shields.io/badge/Domain-Multi--Agent%20Systems-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-LLMs%20%7C%20Agents-10A37F?style=flat-square" />
+      </div>
+      <ul>
+        <li>🧠 <b>Autonomous Agents</b>: Multi-agent goal orchestration</li>
+        <li>🔄 <b>ReAct & Planning</b>: Dynamic tool usage and reflection</li>
+        <li>🌐 <b>API Tool Calling</b>: Automated execution and memory state</li>
+        <li>⚡ <b>Self-Correction</b>: Closed-loop error handling and validation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌌 Developer Overview & Core Competencies
 
 ```yaml
-Developer Profile:
+Architect Profile:
   Name: Prathamesh Desai
-  Role: AI Engineer & Full-Stack Architect
-  Specializations:
-    - AI & Deep Learning (Computer Vision, NLP, RAG, Agentic Systems)
-    - Healthcare Intelligence & Decision Support Platforms
-    - Satellite Remote Sensing & Hazard Detection
-    - Scalable Modern Web Development
-  Current Focus:
-    - Building autonomous agentic decision workflows
-    - Clinical AI diagnostics & real-world predictive modeling
-    - Advanced DSA & distributed systems architecture
+  Specialization: AI/ML Engineering & High-Performance Full-Stack Systems
+  Core Pillars:
+    - 🧠 Agentic Workflows & LLM Orchestration
+    - 🏥 Medical Decision Support & Clinical Knowledge Systems
+    - 🛰️ Satellite Remote Sensing & Computer Vision
+    - 🌐 Distributed Web Applications & ERP Platforms
+  Mission:
+    - Designing reliable, safety-critical AI architectures that bridge foundational research with real-world impact.
 ```
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Complete Repository Portfolio
 
-#### 🧠 AI, Healthcare & Satellite Computer Vision
+#### 🧠 AI, Healthcare & Computer Vision
 <table>
   <thead>
     <tr>
-      <th width="35%">Project</th>
+      <th width="35%">Repository</th>
       <th width="45%">Description</th>
       <th width="20%">Tech Stack</th>
     </tr>
@@ -86,7 +135,7 @@ Developer Profile:
     </tr>
     <tr>
       <td><b><a href="https://github.com/PrathameshDDesai/Agentic-AI">🤖 Agentic-AI</a></b></td>
-      <td>Autonomous multi-agent workflows, iterative goal-seeking algorithms, and intelligent reasoning engines.</td>
+      <td>Autonomous multi-agent architectures, reasoning workflows, iterative goal-seeking algorithms, and intelligent decision-making systems.</td>
       <td><code>Python</code> <code>LLMs</code> <code>Agentic AI</code></td>
     </tr>
     <tr>
@@ -97,11 +146,11 @@ Developer Profile:
   </tbody>
 </table>
 
-#### 🌐 Web Platforms & Enterprise Applications
+#### 🌐 Enterprise Web Platforms & Systems
 <table>
   <thead>
     <tr>
-      <th width="35%">Project</th>
+      <th width="35%">Repository</th>
       <th width="45%">Description</th>
       <th width="20%">Tech Stack</th>
     </tr>
@@ -135,11 +184,11 @@ Developer Profile:
   </tbody>
 </table>
 
-#### 🗾 EdTech, Language Learning & Creative Labs
+#### 🗾 EdTech, Language Learning & Showcase Projects
 <table>
   <thead>
     <tr>
-      <th width="35%">Project</th>
+      <th width="35%">Repository</th>
       <th width="45%">Description</th>
       <th width="20%">Tech Stack</th>
     </tr>
